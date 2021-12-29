@@ -1,6 +1,6 @@
 # Potreus Keyboard
 
-The Potreus Keyboard is a row staggered mechanical keyboard optimized 60% caces. Inspired by [Atreus Keyboard](https://gitlab.com/technomancy/atreus).
+Potreus Keyboard is a row staggered mechanical keyboard optimized 60% caces. Inspired by [Atreus Keyboard](https://gitlab.com/technomancy/atreus).
 
 ## Images
 
